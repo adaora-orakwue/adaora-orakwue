@@ -23,7 +23,7 @@ const Adaora = {
   hobbies: ["dancing","nail designs", "Self Care", "Fashion"],
   techCommunities: ["deartechworld","ColorStack", "BaddiesinTech"]
                       
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
 }
 ```
 
