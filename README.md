@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: adaora-orakwue](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaora-orakwue/)
-[![Instagram: deartechworld](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] (https://www.instagram.com/deartechworld/?hl=en)
+[![Instagram: deartechworld](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deartechworld/?hl=en/)
 
 
 
