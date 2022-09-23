@@ -20,7 +20,7 @@ const Adaora = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [Visual Studio Code,React, ExpoCli, Node, Styled-Components],
   databases: ["Firebase","MySql", "MongoDB"],
-  hobbies: ["dancing","nail designs", "Self Care", "Fashion"],
+  Interests: ["dancing","nail designs", "Self Care", "Fashion", "Nigerian Culture"],
   techCommunities: ["deartechworld","ColorStack", "BaddiesinTech"]
                       
 
