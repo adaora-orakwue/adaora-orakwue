@@ -21,7 +21,7 @@ const Adaora = {
   tools: [Visual Studio Code,React, ExpoCli, Node, Styled-Components],
   databases: ["Firebase","MySql", "MongoDB", "auth0"],
   Interests: ["dancing","nail designs", "Self Care", "Fashion", "Nigerian Culture"],
-  techCommunities: ["deartechworld","ColorStack", "BaddiesinTech"]
+
                       
 
 }
